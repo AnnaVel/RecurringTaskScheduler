@@ -1,0 +1,5 @@
+C:\Users\Velcheva\Desktop\HousekeepingSchedulerModel\HousekeepingSchedulerModel\obj\Debug\HousekeepingSchedulerModel.csprojResolveAssemblyReference.cache
+C:\Users\Velcheva\Desktop\HousekeepingSchedulerModel\HousekeepingSchedulerModel\bin\Debug\HousekeepingSchedulerModel.dll
+C:\Users\Velcheva\Desktop\HousekeepingSchedulerModel\HousekeepingSchedulerModel\bin\Debug\HousekeepingSchedulerModel.pdb
+C:\Users\Velcheva\Desktop\HousekeepingSchedulerModel\HousekeepingSchedulerModel\obj\Debug\HousekeepingSchedulerModel.dll
+C:\Users\Velcheva\Desktop\HousekeepingSchedulerModel\HousekeepingSchedulerModel\obj\Debug\HousekeepingSchedulerModel.pdb
